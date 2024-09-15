@@ -1,4 +1,4 @@
-# ESP-32 - Blink
-Branch Name - blink
+# ESP-32 - STA Mode
+Branch Name - STA Mode
 Project Description -
-LED Blinking using ESP-32 Free RTOS on Built in LED ON GPIO-2 
+Wifi STA Mode using free RTOS and toggling the built in LED GPIO 2 
